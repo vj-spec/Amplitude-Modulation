@@ -74,13 +74,6 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 
 TABULATION:
 
-Sl. No.	SIGNAL		AMPLITUDE(v)	FREQUENCY (hz)
-1	Message Signal	Theory (am)		
-		Practical		
-2	Carrier Signal	Theory (ac)		
-		Practical		
-3	Modulated Signal	Practical	Emax = Emin =	
-4.	Demodulat ed Signal	Practical		
 
 
 Calculation
@@ -89,7 +82,8 @@ Calculation
 
 
 MODEL GRAPH
- 
+ <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
+
  
  
 
