@@ -75,7 +75,7 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
-
+```
 Am=6.2;
 fm=478;
 fs=47800;
@@ -92,7 +92,7 @@ s=(Ac+m).*cos(2*3.14*fc*t);
 subplot(3,1,3);
 plot(t,s);
 
-
+```
 
 
 Output Waveform
